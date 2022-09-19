@@ -57,6 +57,17 @@
       "offers": [
         "6324dee673321213f87b0d89"
       ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/headphone.webp"
+        },
+        {
+          "img": "/img/uploads/rect8589.png"
+        }
+      ]
     }
   ]
 }
