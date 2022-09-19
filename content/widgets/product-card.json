@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-product-card",
   "active": true,
-  "desktopOnly": false,
+  "desktopOnly": true,
   "options": {
-    "buyText": "",
-    "buy": "",
-    "footer": ""
+    "buyText": "TESTE",
+    "buy": "<h1>TESTE DE CARD</h1>",
+    "footer": "<p>Conteúdo adicional do card</p>"
   }
 }
