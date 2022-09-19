@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-product",
   "active": true,
-  "desktopOnly": false,
+  "desktopOnly": true,
   "options": {
-    "buyText": "",
-    "buy": "",
+    "buyText": "DETALHES DO PRODUTO",
+    "buy": "<h2>Detalhes do produto</h2>",
     "strHasQuantitySelector": "_",
     "strHasPromotionTimer": "_",
     "lowQuantityToWarn": 12,
