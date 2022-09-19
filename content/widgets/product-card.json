@@ -3,7 +3,7 @@
   "active": true,
   "desktopOnly": true,
   "options": {
-    "buyText": "TESTE",
+    "buyText": "TESTE DE CARD",
     "buy": "<h1>TESTE DE CARD</h1>",
     "footer": "<p>Conteúdo adicional do card</p>"
   }
