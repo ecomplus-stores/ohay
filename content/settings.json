@@ -1,7 +1,7 @@
 {
   "domain": "ohay.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#56cc9d",
+  "primary_color": "#ec9cac",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/ohay",
   "logo": "/img/uploads/logo-ohay.png",
-  "name": "ohay",
-  "short_name": "ohay",
+  "name": "Ohay",
+  "short_name": "Ohay",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#ec9cac",
   "icon": "/img/icon.png",
   "store_id": 51318,
-  "description": "ohay",
+  "description": "Ohay",
   "large_icon": "/img/large-icon.png"
 }
